@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from deep_translator import GoogleTranslator
 from gtts import gTTS
 
-TOKEN = '7235785198:AAEsh9YSjI8MDiBTBTq8dzf8sTDRo0i8zFQ'
+TOKEN = ''
 DB_NAME = 'bot_data.db'
 
 INPUT_TEXT, INPUT_LANG = range(2)
